@@ -46,3 +46,7 @@ Assesses the quality of recommendations with a test case.
 Integration of content-based filtering for hybrid recommendations.                                                                                                                     
 Improved scalability for handling larger datasets.                                                                                                                                       
 Interactive user interface for enhanced user experience.
+
+# Contact
+[Linkedin](www.linkedin.com/in/g-kamaleashwar-28a2802ba)               
+[Porfolio](https://kamalesh-portfolio.streamlit.app)
